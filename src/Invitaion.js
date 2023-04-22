@@ -4,12 +4,8 @@ const { Fragment } = require("react");
 
 
 
-
-
 export default function Invitation(props){
-   
-  
-    
+
     return(
       <Fragment>
        
